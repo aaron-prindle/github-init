@@ -24,6 +24,7 @@ Here is a example starting from making the project directory of to pushing remot
     git init
     touch README.md
     git add .
+    git commit -a -m "initializing repo"
     git remote add origin git@github.com:username/project.git
     git push -u origin master
 
