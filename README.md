@@ -17,6 +17,7 @@ Example usage
 --------------
 I designed github-init to be used inside of the directory in which you want to make a repository
 Here is a example starting from making the project directory of to pushing remotely of how someone might use github-init
+
     <code>mkdir project</code>
     cd project
     github-init username description-of-repo
